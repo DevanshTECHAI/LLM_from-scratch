@@ -1,0 +1,6 @@
+Artificial intelligence is a branch of computer science focused on creating systems that can perform tasks requiring human-like intelligence.
+Machine learning is a subset of AI that enables models to learn patterns from data instead of following fixed rules.
+Natural language processing helps computers understand, generate, and translate human language.
+Transformers are a neural network architecture widely used for language modeling and sequence tasks.
+SentencePiece is a tokenizer library that can train subword models efficiently for text processing.
+This sample file is used to train a small tokenizer for the LLM project.
